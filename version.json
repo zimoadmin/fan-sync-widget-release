@@ -1,6 +1,7 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "file": "fan-sync-widget-setup.exe",
-  "size": 84228952,
-  "publishedAt": "2026-11-27T12:21:36+08:00"
+  "size": 84229737,
+  "publishedAt": "2026-11-27T12:24:45+08:00",
+  "sha256": "8d829ff83ce26d4b19c7144c5f01cdd8769c64279495377eaeb8475276a03ca5"
 }
